@@ -7,6 +7,7 @@
 ## При разработке использовал:
 * redux / redux-thunk для организации стейта
 * Material Ui
+* LocalStorage
 * react-router-dom для роутинга
 * REST API, асинхронные запросы, json-server (специально для приложения был написан небольшой backend)
 * а также хуки, concurrently, react-hotkeys-hook, redux-logger, функциональные компоненты
